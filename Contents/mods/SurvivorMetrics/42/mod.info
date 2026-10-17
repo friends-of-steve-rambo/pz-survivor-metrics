@@ -1,0 +1,7 @@
+name=Survivor Metrics
+id=SurvivorMetrics
+author=Desunovu
+description=Track and display survivor metrics in Project Zomboid.
+poster=poster.png
+modversion=0.1.0
+versionMin=42.0.0

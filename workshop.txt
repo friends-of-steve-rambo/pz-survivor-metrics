@@ -1,0 +1,6 @@
+version=1
+workshopid=0
+title=Survivor Metrics
+description=Track and display survivor metrics in Project Zomboid Build 42.
+visibility=private
+tags=Build 42;UI
